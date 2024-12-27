@@ -1,4 +1,5 @@
 # Proj.demo
 This is my First Git Repository
 <br>
-Author - Shreya Shukla
+Author - Shreya Shukla TYIT
+
